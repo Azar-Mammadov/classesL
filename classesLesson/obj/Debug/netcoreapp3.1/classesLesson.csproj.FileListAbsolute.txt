@@ -1,0 +1,16 @@
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\bin\Debug\netcoreapp3.1\classesLesson.exe
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\bin\Debug\netcoreapp3.1\classesLesson.deps.json
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\bin\Debug\netcoreapp3.1\classesLesson.runtimeconfig.json
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\bin\Debug\netcoreapp3.1\classesLesson.runtimeconfig.dev.json
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\bin\Debug\netcoreapp3.1\classesLesson.dll
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\bin\Debug\netcoreapp3.1\classesLesson.pdb
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\obj\Debug\netcoreapp3.1\classesLesson.csproj.AssemblyReference.cache
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\obj\Debug\netcoreapp3.1\classesLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\obj\Debug\netcoreapp3.1\classesLesson.AssemblyInfoInputs.cache
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\obj\Debug\netcoreapp3.1\classesLesson.AssemblyInfo.cs
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\obj\Debug\netcoreapp3.1\classesLesson.csproj.CoreCompileInputs.cache
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\obj\Debug\netcoreapp3.1\classesLesson.csproj.CopyComplete
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\obj\Debug\netcoreapp3.1\classesLesson.dll
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\obj\Debug\netcoreapp3.1\classesLesson.pdb
+C:\Users\tu201806281\Desktop\10.28.21\classesLesson\classesLesson\obj\Debug\netcoreapp3.1\classesLesson.genruntimeconfig.cache

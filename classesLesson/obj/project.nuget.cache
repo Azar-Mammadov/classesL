@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Crue/nQ1PRxQYr7kUoz0u2MfH3Ll8qgYNm2nz2xfkHmqYR5j0OW4rtRdgXanbEuchFO+mbrsfU8cQgl04ILIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tu201806281\\Desktop\\10.28.21\\classesLesson\\classesLesson\\classesLesson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tu201806281\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
